@@ -1,1 +1,2 @@
-# sre-lesson-011
+## Otus sre-lesson-011
+#### Simple prometheus exporter
